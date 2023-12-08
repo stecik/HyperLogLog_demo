@@ -1,2 +1,2 @@
-# HyperLogLog_demo
+# HyperLogLog demo
 HyperLogLog implementation inPython
